@@ -1,0 +1,3 @@
+[submodule "submoduleX"]
+	path = submoduleX
+	url = git@github.com:DavidUser/submoduleX.git
